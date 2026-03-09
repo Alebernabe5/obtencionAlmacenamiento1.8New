@@ -1,0 +1,6 @@
+polars
+connectorx
+plotly
+pandas
+streamlit
+pyarrow
